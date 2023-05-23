@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Успеваемость учащихся", "Успеваемость учащихся\Успеваемость учащихся.csproj", "{9E5F01D0-B935-459E-8636-E33500A5AE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskClassLibraryTests", "MathTaskClassLibraryTests\MathTaskClassLibraryTests.csproj", "{DD3C8E6E-5293-4E10-999F-A66C3C6A7D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5F01D0-B935-459E-8636-E33500A5AE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5F01D0-B935-459E-8636-E33500A5AE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5F01D0-B935-459E-8636-E33500A5AE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5F01D0-B935-459E-8636-E33500A5AE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3C8E6E-5293-4E10-999F-A66C3C6A7D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3C8E6E-5293-4E10-999F-A66C3C6A7D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3C8E6E-5293-4E10-999F-A66C3C6A7D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3C8E6E-5293-4E10-999F-A66C3C6A7D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4A44AC-8E7F-4246-A7A4-A1454E6E7AF6}
+	EndGlobalSection
+EndGlobal

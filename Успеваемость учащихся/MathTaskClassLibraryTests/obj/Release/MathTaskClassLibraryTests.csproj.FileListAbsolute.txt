@@ -1,0 +1,17 @@
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\MathTaskClassLibraryTests.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\MathTaskClassLibraryTests.pdb
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\obj\Release\MathTaskClassLibraryTests.csproj.AssemblyReference.cache
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\obj\Release\MathTaskClassLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\obj\Release\MathTaskClassLibraryTests.csproj.CopyComplete
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\obj\Release\MathTaskClassLibraryTests.dll
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\MathTaskClassLibraryTests\obj\Release\MathTaskClassLibraryTests.pdb

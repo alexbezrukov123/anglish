@@ -1,0 +1,54 @@
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.exe.config
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.exe
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.pdb
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.ResolveComReference.cache
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Avtoriz.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Klass.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Menu.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Prepod.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Regestr.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Statistika.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Ucheniki.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Uspevaemost.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Properties.Resources.resources
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.GenerateResource.cache
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.CoreCompileInputs.cache
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.exe
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.pdb
+C:\Users\25-тпБезруковАК\Desktop\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.AssemblyReference.cache
+H:\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.exe.config
+H:\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.exe
+H:\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.pdb
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.AssemblyReference.cache
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.ResolveComReference.cache
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Avtoriz.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Klass.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Menu.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Prepod.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Regestr.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Statistika.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Ucheniki.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Uspevaemost.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Properties.Resources.resources
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.GenerateResource.cache
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.CoreCompileInputs.cache
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.exe
+H:\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.pdb
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.exe.config
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.exe
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Avtoriz.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Klass.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Menu.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Prepod.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Regestr.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Statistika.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Ucheniki.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Forms.Uspevaemost.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость_учащихся.Properties.Resources.resources
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.exe
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\obj\Release\Успеваемость учащихся.pdb
+C:\Users\Admin\Desktop\Отчет по ПП 02\Успеваемость учащихся\Успеваемость учащихся\bin\Release\Успеваемость учащихся.pdb
